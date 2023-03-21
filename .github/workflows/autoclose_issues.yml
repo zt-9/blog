@@ -1,15 +1,12 @@
-name: Auto close issues created by others
-
 on:
   workflow_dispatch:
   issues:
     types: [opened]
-
-job:
+jobs:
   autoclose_issues:
     if: ${{ github.event.issue.user.login != github.repository_owner}}
     runs-on: ubuntu-latest
     steps: 
-      uses: peter-evans/close-issue@v2
-      with: 
-        - token: ${{ secrets.TOKEN }}
+      - uses: peter-evans/close-issue@v2
+        with: 
+          token: ${{ secrets.TOKEN }}
