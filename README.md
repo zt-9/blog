@@ -2,6 +2,8 @@
 > zt's blog
 
 ## Main content
+- Are Crypto Wallets Ready for the Quantum Threat? ([post](https://x.com/zt_zzzzt/status/1866558470402760738), [gist](https://gist.github.com/zt-9/0449ecfaa1c8495b760c8b83cc057367))
+- $move airdrop tracking Dune dashboard ([link](https://dune.com/zzzzt/move-airdrop-tracking))
 - How to add a precompile to Geth ([gist](https://gist.github.com/zt-9/64c4a51e4a3e754635bc01f0a3e53ea5),[threads](https://x.com/zt_zzzzt/status/1837242254240666067))
 - Deploy contract with different solidity version in Foundry test ([gist](https://gist.github.com/zt-9/f367a998e00294595a9bd700200c8b5a))
 - Tutorial on using geth for smart contract deployment and interaction. ([repo](https://github.com/zt-9/geth-smart-contract))
