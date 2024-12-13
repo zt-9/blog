@@ -2,6 +2,8 @@
 > zt's blog
 
 ## Main content
+- Comparisons between an Ethereum 
+Full Node, Light Node, and Portal Network ([post](https://x.com/zt_zzzzt/status/1867321028147622161))
 - Are Crypto Wallets Ready for the Quantum Threat? ([post](https://x.com/zt_zzzzt/status/1866558470402760738), [gist](https://gist.github.com/zt-9/0449ecfaa1c8495b760c8b83cc057367))
 - $move airdrop tracking Dune dashboard ([link](https://dune.com/zzzzt/move-airdrop-tracking))
 - How to add a precompile to Geth ([gist](https://gist.github.com/zt-9/64c4a51e4a3e754635bc01f0a3e53ea5),[threads](https://x.com/zt_zzzzt/status/1837242254240666067))
