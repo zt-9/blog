@@ -2,6 +2,7 @@
 > zt's blog
 
 ## Main content
+- ERC4337 example with wagmi, viem and permissionless.js ([post](https://x.com/zt_zzzzt/status/1873217090351469040), [code](https://github.com/zt-9/wagmi-erc4337))
 - Comparisons between an Ethereum 
 Full Node, Light Node, and Portal Network ([post](https://x.com/zt_zzzzt/status/1867321028147622161))
 - Are Crypto Wallets Ready for the Quantum Threat? ([post](https://x.com/zt_zzzzt/status/1866558470402760738), [gist](https://gist.github.com/zt-9/0449ecfaa1c8495b760c8b83cc057367))
