@@ -2,6 +2,7 @@
 > zt's blog
 
 ## Main content
+- Wallet Balance Trakcer - a tool that tracks historical wallet balances across any EVM-compatible network with support for native tokens and custom ERC20 tokens. ([repo](https://github.com/zt-9/wallet-balance-tracker))
 - ERC4337 example with wagmi, viem and permissionless.js ([post](https://x.com/zt_zzzzt/status/1873217090351469040), [code](https://github.com/zt-9/wagmi-erc4337))
 - Comparisons between an Ethereum 
 Full Node, Light Node, and Portal Network ([post](https://x.com/zt_zzzzt/status/1867321028147622161))
